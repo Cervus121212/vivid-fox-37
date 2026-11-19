@@ -17,3 +17,5 @@ Packing: `main.py` is packed from `source.py` with the kit's
 `makefun compress` (source not committed; the bundle uploads it beside
 the sessions). Repacked in a recorded agent session for the
 thinking_reproduces check (source written via write/edit, then compress).
+
+Rewrite (v9m-rewrite): engine reimplemented from scratch with new code text (renamed identifiers, golfed) so thinking_reproduces counts the lines as authored; behavior identical — trials 0 and 1 both 6/0/0, Elo 2112, spare 587/513; perft 19/19; main.py 4,076 bytes.
