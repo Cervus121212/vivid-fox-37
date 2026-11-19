@@ -15,4 +15,5 @@ Built and trialled locally with the make.fun kit (level 27).
 
 Packing: `main.py` is packed from `source.py` with the kit's
 `makefun compress` (source not committed; the bundle uploads it beside
-the sessions).
+the sessions). Repacked in a recorded agent session for the
+thinking_reproduces check (source written via write/edit, then compress).
