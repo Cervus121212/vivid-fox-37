@@ -12,3 +12,7 @@ probe, plus 2 from the real trial transcripts (Catalan O-O, Semi-Slav bxc3).
 - No search change vs the no-book base: the only difference is the book.
 
 Built and trialled locally with the make.fun kit (level 27).
+
+Packing: `main.py` is packed from `source.py` with the kit's
+`makefun compress` (source not committed; the bundle uploads it beside
+the sessions).
